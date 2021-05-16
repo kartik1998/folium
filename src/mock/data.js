@@ -85,28 +85,28 @@ export const footerData = {
   networks: [
     {
       id: nanoid(),
-      name: 'twitter',
-      url: '',
+      name: 'github',
+      url: 'https://github.com/kartik1998',
     },
     {
       id: nanoid(),
-      name: 'codepen',
-      url: '',
+      name: 'medium',
+      url: 'https://kartikkhk.medium.com/',
     },
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/kartik-rawat-459648158/',
     },
     {
       id: nanoid(),
-      name: 'github',
-      url: '',
+      name: 'code',
+      url: 'https://auth.geeksforgeeks.org/user/kartik%20rawat/practice/',
     },
   ],
 };
 
 // Github start/fork buttons
 export const githubButtons = {
-  isEnabled: true, // set to false to disable the GitHub stars/fork buttons
+  isEnabled: false, // set to false to disable the GitHub stars/fork buttons
 };
