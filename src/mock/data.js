@@ -46,6 +46,15 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'deepscan.jpg',
+    title: 'Deep Scan',
+    info: `Scan credentials in git repos`,
+    info2: 'Deep Scan provides API’s which enable a user, organization to catch any sort of git-secrets such as AWS Keys or GCP keys in their public repositories.',
+    url: 'https://gitlab.com/kartikkhk/deep_scan',
+    repo: 'https://gitlab.com/kartikkhk/deep_scan', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'phonetics.png',
     title: 'Phonetics',
     info: 'Phonetic string matching',
