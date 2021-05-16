@@ -54,10 +54,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kartik1998/folium"
+    "url": "https://github.com/kartik1998/portfolio"
   },
   "bugs": {
-    "url": "https://github.com/kartik1998/folium/issues"
+    "url": "https://github.com/kartik1998/portfolio/issues"
   },
   "husky": {
     "hooks": {

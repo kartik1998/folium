@@ -32,5 +32,5 @@ module.exports = {
       },
     },
   ],
-  pathPrefix: "/folium",
+  pathPrefix: "/portfolio",
 };
