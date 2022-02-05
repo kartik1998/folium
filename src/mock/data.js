@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'I graduated from Delhi Technological University with a Bachelors in Technology majoring in Software Engineering in the year 2020.',
   paragraphTwo: `Since then I've been working as a Software Engineer and have been lucky enough to work on high impact projects with very high ownership. I prefer working in fast paced companies where I can see the impact of my work and learn at a quick rate.`,
   paragraphThree: `As a hobby I like to write instrumental music & like to contribute to OSS projects while listening to LoFi music`,
-  resume: 'https://drive.google.com/file/d/1jgA8_x3PdQ9if6yJ7rVOwl29kCBnZEEh/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1-kCJgsCJUwgDQLW5PlGwHhij6gfkvHwj/', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
